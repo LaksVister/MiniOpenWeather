@@ -8,6 +8,7 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
+from MiniOpenWeather import ModuleOpenWeather
 
 
 class Ui_MainWindow(object):

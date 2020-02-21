@@ -37,7 +37,7 @@ class OpenWheather:
             - You have FREE subscription and try to get access to our paid services.
 
         Q: API calls return an error 404
-        A:You can get this error in the following cases:
+        A: You can get this error in the following cases:
             - You specify wrong city name
             - Check your internet connection
 
